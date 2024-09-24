@@ -91,6 +91,8 @@ Once you have the turntable assembled like shown below, you can install it to th
 ![tt_assembled](https://github.com/thomasstar/GJ-Tho-Modular-V2/blob/main/pictures/irlpic_turntable4.jpg)
 For more pictures of the turntable assembly, check the pictures folder.<br/>
 
+Update: I've noticed some encoders have longer shafts. this will cause it to hit the m5 nut inside the tt_spacer part resulting in higher mount position. so only solution at the moment while I make some design changes, is to remove the m5 nut inside the tt_spacer part and install the disc without having the option to fine adjust the distance using the intended design metod. sorry!
+
 This should cover most of the build process. The rest relies on you. You may refer to the Wiki link below for more useful information regarding parts, pcb and firmwares. Good luck!
 
 # Resources
