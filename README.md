@@ -38,7 +38,7 @@ Parts you need for the turntable:<br/>
 4x M3(OD4.2mm) heat inserts. about 5mm in length (maximum 10mm)<br/>
 1x Rotary encoder (refer to picture below)<br/>
 1x coupler (refer to picture below)<br/>
-1x ledstrip (optional if you want light) about 330mm length and maximum 12mm width<br/>
+1x ledstrip (optional if you want light) about 330mm length and maximum 10mm width<br/>
 ![Coupler and Encoder](https://github.com/thomasstar/GJ-Tho-Modular-V2/blob/main/pictures/coupler_encoder.jpg)
 
 Parts to print (turntable):<br/>
